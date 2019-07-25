@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html { 
+    background: url("../image/ikun.jpeg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+
+  button {
+    margin: 15px;
+    padding: 3px 20px;
+    border-radius: 10px;
+    color: #ffffff;
+    background: peru;
+  }
+  
+  #animal-form {
+    
+    float: right;
+    width: 20%;
+    margin: 10px;
+  }
+  
+  #animal-input,
+  #add-animal {
+    margin-bottom: 10px;
+  }
+  
+  #add-animal {
+    padding: 3px 25px;
+    border-radius: 10px;
+    color: #ffffff;
+    background: peru;
+  }
+  
+  #gifs-view {
+    width: 65%;
+  }
+  
+  .animal {
+    float: left;
+    margin: 10px;
+  }
+  
+  #animal-input {
+    width: 100%;
+  }
