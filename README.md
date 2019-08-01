@@ -1,3 +1,3 @@
 # giftastic
 
-It is a collection of Animal Ghiphys in progress
+Thiis is a simple application that

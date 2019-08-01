@@ -3,7 +3,7 @@
   }
   
   html { 
-    background: url("../image/ikun.jpeg") no-repeat center center fixed; 
+    background: url("../image/seamless.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -16,7 +16,7 @@
     padding: 3px 20px;
     border-radius: 10px;
     color: #ffffff;
-    background: peru;
+    background: black;
   }
   
   #animal-form {
@@ -35,7 +35,7 @@
     padding: 3px 25px;
     border-radius: 10px;
     color: #ffffff;
-    background: peru;
+    background: black;
   }
   
   #gifs-view {
