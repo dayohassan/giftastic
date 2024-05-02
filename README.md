@@ -2,16 +2,16 @@
 
 This is an application that uses the GIPHY API to make a dynamic web page that populates with gifs of my choice. 
 
-A list of animals were used for this purpose, which was stored in an array....
+A list of animals was used for this purpose, which was stored in an array...
 
-```js
+``` js
 var animalsArray = ["lion", "elephant", "horse", "zebra"];
 
 ```
 
-This application takes the animals in this array and create buttons in the HTML page. 
+This application takes the animals in this array and creates buttons in the HTML page. 
 
-```html
+```HTML
 
  <!-- div holding the animal buttons -->
     <div id="buttons"></div>
